@@ -1,0 +1,24 @@
+Tattered Rags	1	18
+Basic Tunic	3	22
+Plated Tunic	5	27
+Badly-Damaged Chestplate	7	32
+Leather Garbs	7	35
+Dragon-Charred Chestplate	8	40
+Cobblestone Armour	9	42
+Basic Chainmail	10	48
+Heavy Plated Tunic	10	50
+Blessed Rags	11	56
+Sword-Pierced Chestplate	12	64
+Cannon-Fodder Tunic	13	66
+Beast Ribcage	13	67
+Gold-Plated Robes	15	85
+Damaged Infantry Set	16	72
+Thief Attire	17	76
+Blessed Cleric Robes	17	84
+Stone Armour	18	90
+Magic-Blasted Chestplate	20	100
+Fool's Armour	21	112
+Reinforced Chainmail	22	121
+Infantry Set	24	134
+Omen's Chains	24	148
+Hunter's Garbs	25	175

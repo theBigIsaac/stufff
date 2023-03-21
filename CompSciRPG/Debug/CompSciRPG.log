@@ -1,0 +1,4 @@
+﻿  CompSciRPG.cpp
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(33,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(259,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CompSciRPG.vcxproj -> C:\Users\isaac\source\repos\CompSciRPG\Debug\CompSciRPG.exe

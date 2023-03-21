@@ -1,0 +1,6 @@
+﻿  CompSciRPG.cpp
+C:\Users\N1083162\Projects\CompSciRPG\CompSciRPG\CompSciRPG.cpp(33,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPG\CompSciRPG\CompSciRPG.cpp(191,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPG\CompSciRPG\CompSciRPG.cpp(213,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPG\CompSciRPG\CompSciRPG.cpp(276,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CompSciRPG.vcxproj -> C:\Users\N1083162\Projects\CompSciRPG\CompSciRPG\x64\Debug\CompSciRPG.exe
