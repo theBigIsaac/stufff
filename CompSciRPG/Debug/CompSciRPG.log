@@ -1,4 +1,15 @@
 ﻿  CompSciRPG.cpp
-C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(33,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(259,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(194,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(219,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(237,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(241,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(251,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(254,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(266,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(270,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(289,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(308,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(347,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(378,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG\CompSciRPG.cpp(406,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   CompSciRPG.vcxproj -> C:\Users\isaac\source\repos\CompSciRPG\Debug\CompSciRPG.exe

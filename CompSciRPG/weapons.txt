@@ -1,37 +1,37 @@
-Wooden Sword	5	10
-Stone Sword	7	15
-Broken Blade	8	18
-Rusty Sword	10	21
-Dagger	12	25
-Beast Fang	13	26
-Beast Claw	13	28
-Serrated Dagger	15	31
-Wooden Club	15	30
-Sharpened Wooden Sword	16	32
-Sickle	17	33
-Sharpened Stone Sword	18	35
-Piercing Blade	20	40
-Fool's Greatsword	21	19
-Wooden Mallet	22	45
-Dual Daggers	24	48
-Iron Sword	25	52
-Engraved Sword	27	60
-Trident	27	64
-Ferocious Beast Fang	29	68
-Ferocious Beast Claw	29	70
-Dual Serrated Daggers	30	85
-Large Wooden Club	30	86
-Old Warrior's Sword	32	100
-Stone Hammer	33	100
-Dual Sickles	34	108
-Snakeborne Blade	35	112
-Scythe	36	115
-Greatsword	36	121
-Orion's Curved Sword	38	128
-Saw Cleaver	40	130
-Hunter's Axe	40	130
-Threaded Cane	40	130
-Glaive of Meaning	42	150
-Crestfallen Straight Sword	45	162
-Trident of the Bloody Omen	48	175
-Kusabimaru	50	200
+Wooden Sword	5
+Stone Sword	7
+Broken Blade	8
+Rusty Sword	10
+Dagger	12
+Beast Fang	13
+Beast Claw	13
+Serrated Dagger	15
+Wooden Club	15
+Sharpened Wooden Sword	16
+Sickle	17
+Sharpened Stone Sword	18
+Piercing Blade	20
+Fool's Greatsword	21
+Wooden Mallet	22
+Dual Daggers	24
+Iron Sword	25
+Engraved Sword	27
+Trident	27
+Ferocious Beast Fang	29
+Ferocious Beast Claw	29
+Dual Serrated Daggers	30
+Large Wooden Club	30
+Old Warrior's Sword	32
+Stone Hammer	33
+Dual Sickles	34
+Snakeborne Blade	35
+Scythe	36
+Greatsword	36
+Orion's Curved Sword	38
+Saw Cleaver	40
+Hunter's Axe	40
+Threaded Cane	40
+Glaive of Meaning	42
+Crestfallen Straight Sword	45
+Trident of the Bloody Omen	48
+Kusabimaru	50
