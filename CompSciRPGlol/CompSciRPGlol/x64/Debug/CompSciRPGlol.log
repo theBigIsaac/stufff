@@ -1,0 +1,18 @@
+﻿  CompSciRPGlol.cpp
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(195,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(220,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(238,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(252,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(271,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(272,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(310,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(348,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(379,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(411,34): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(468,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\N1083162\Projects\CompSciRPGlol\CompSciRPGlol\CompSciRPGlol.cpp(470,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CompSciRPGlol.vcxproj -> C:\Users\N1083162\Projects\CompSciRPGlol\x64\Debug\CompSciRPGlol.exe

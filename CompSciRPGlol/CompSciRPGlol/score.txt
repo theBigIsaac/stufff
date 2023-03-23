@@ -1,0 +1,10 @@
+10	Damn
+1	lol
+0	Alfred
+0	Bert
+0	Carol
+0	Denise
+0	Ethan
+0	Fred
+0	George
+0	Harry
