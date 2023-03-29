@@ -1,0 +1,32 @@
+﻿  CompSciRPG2.cpp
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(195,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(220,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(238,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(242,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(252,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(255,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(267,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(271,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(293,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(312,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(351,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(382,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(414,34): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(424,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(431,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(459,34): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(512,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(515,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(518,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(521,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(530,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\isaac\source\repos\CompSciRPG2\CompSciRPG2.cpp(532,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CompSciRPG2.vcxproj -> C:\Users\isaac\source\repos\CompSciRPG2\Debug\CompSciRPG2.exe
