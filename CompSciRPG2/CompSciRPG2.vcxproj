@@ -141,6 +141,15 @@
   <ItemGroup>
     <ClCompile Include="CompSciRPG2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="armours.txt" />
+    <Text Include="names.txt" />
+    <Text Include="save.txt" />
+    <Text Include="score.txt" />
+    <Text Include="titles1.txt" />
+    <Text Include="titles2.txt" />
+    <Text Include="weapons.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

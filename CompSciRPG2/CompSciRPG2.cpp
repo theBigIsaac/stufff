@@ -11,6 +11,7 @@
 #include <algorithm>
 #include <list>
 #include <random>
+#include <conio.h>
 
 using namespace std;
 using namespace std::this_thread;
@@ -236,7 +237,6 @@ int healthCheck(Player mc, Enemy enemy) {
 list<Weapon> WeaponShopContents(int score, default_random_engine ran) {
     list<Weapon> contents;
     int amount = randomNum(2, 5, ran);
-    cout << amount;
     int location = score - 5;
     for (int x = 0; x < amount; x++) {
         if (ran() % 100 < 70 && location < weapons.size()) {
@@ -468,6 +468,26 @@ void leaderBoard() {
         cout << x + 1 << ". " << names.front() << "\t" << scores.front() << "\n";
         names.pop_front(); scores.pop_front();
     }
+    cout << "\n";
+    system("pause");
+}
+
+void tutorial() {
+    system("cls");
+    cout << "The goal of this game is to defeat as many enemies as possible and reach a new highscore\n";
+    cout << "You will automatically go from battle to battle\n\n";
+    cout << "To fight your enemy, you must choose either a Light, Heavy or Special attack, you will type the name of the attack you wish to perform\n";
+    cout << "In order to perform your attack, you must solve a simple maths equation, which will be based on the type of attack you perform\n";
+    cout << "Light - Addition - Low damage\tHeavy - Subtraction - Medium damage\tSpecial - Multiplication - High damage\n";
+    cout << "If you get the answer wrong, or take too long to answer, you will take damage corresponding to the type of attack you chose\n";
+    cout << "If you get the answer right, in the right amount of time, the enemy will take damage corresponding to the type of attack you chose\n";
+    cout << "You will continue this process until either your health, or the enemy's health is 0\n\n";
+    cout << "Every 5 enemies you defeat, you are transported to a shop where you can buy armour or weapons with the gold you earn from defeating enemies\n";
+    cout << "Armour reduces the damage you take from enemies, weapons increase the damage you deal to enemies\n";
+    cout << "The game will also save when you leave the shop, so you can close it and return at a later time\n\n";
+    cout << "Reminder: When you die, your character is permanently DEAD, and you will have to start again at level 1, with the starting armour and weapon\n";
+    cout << "However, your score will be saved and added to the leaderboard\n\n";
+    system("pause");
 }
 
 void game(default_random_engine ran, Player mainCharacter, int score) {
@@ -533,17 +553,32 @@ void main()
     createWeapons();
     createArmours();
 
-    int choice;
-    cout << "Main Menu\n1. New Game\n2. Load Game\n3. View Leaderboard\n4. Read Tutorial\n5. Quit Game";
-    cin >> choice;
+    int choice = 0;
+    while (choice != 5) {
+        system("cls");
+        cout << "Main Menu\n1. New Game\n2. Load Game\n3. View Leaderboard\n4. Read Tutorial\n5. Quit Game\n";
+        cin >> choice;
 
-    if (choice == 1) {
-        newGame(ranEng);
+        if (choice == 1) {
+            newGame(ranEng);
+        }
+        else if (choice == 2) {
+            loadGame(ranEng);
+        }
+        else if (choice == 3) {
+            leaderBoard();
+        }
+        else if (choice == 4) {
+            tutorial();
+        }
+        else if (choice == 5) {
+            cout << "Quitting";
+            sleep(1);
+        }
+        else {
+            cout << "That option is not listed, please try again";
+            sleep(2);
+        }
     }
-    else if (choice == 2) {
-        loadGame(ranEng);
-    }
-    else if (choice == 3) {
-        leaderBoard();
-    }
+    
 }

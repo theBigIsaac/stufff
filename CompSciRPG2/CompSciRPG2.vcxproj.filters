@@ -19,4 +19,27 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="armours.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="names.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="save.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="score.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="titles1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="titles2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="weapons.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
